@@ -15,8 +15,11 @@ In this model, we merge the two differnt dataset. one is application_record.csv 
 ## Application_record.csv contain:
 
 Feature name	          Explanation
+
 ID	                    Client number
+
 CODE_GENDER	            Gender
+
 FLAG_OWN_CAR	          Is there a car
 FLAG_OWN_REALTY  	      Is there a property
 CNT_CHILDREN	          Number of children
