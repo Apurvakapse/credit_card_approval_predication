@@ -51,3 +51,11 @@ FLAG_EMAIL==>		            Is there an email
 OCCUPATION_TYPE	==>	        Occupation
 
 CNT_FAM_MEMBERS	==>	        Family size
+
+## Credit_record.csv contain
+
+ID==>	Client number
+
+MONTHS_BALANCE==>	Record month
+
+STATUS==>	Status
