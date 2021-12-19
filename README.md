@@ -13,6 +13,7 @@ They have given a problem to identify the customers segments which are eligible 
 In this model, we merge the two differnt dataset. one is application_record.csv & another is credit_record.csv
 
 ## Application_record.csv contain:
+
 Feature name	          Explanation
 ID	                    Client number
 CODE_GENDER	            Gender
